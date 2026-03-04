@@ -161,7 +161,7 @@ The Streamlit dashboard allows interactive exploration of extracted clinical dat
 ![Dashboard Governance](docs/dashboard_governance.png)
 
 ### Extracted Tables
-![Tables](docs/dashboard_tables.png)
+![Tables](docs/dashboard_tables.png)(docs/dashboard_tables2.png)
 
 ## SQLite Migration
 
