@@ -1,0 +1,9 @@
+Patient: Synthetic Invalid Edss
+MRN: BAD-1001
+Visit Date: 2026-02-28
+
+Assessment: MS follow-up with worsening balance.
+EDSS score: 12
+Medication: Ocrelizumab | Dose: 600 mg | Frequency: every 6 months
+MRI: Brain | Finding: No acute enhancement | Severity: 2.0
+

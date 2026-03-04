@@ -1,0 +1,9 @@
+Patient: Synthetic Future Year
+MRN: BAD-1002
+Visit Date: 2026-02-28
+
+Assessment: Relapsing-remitting multiple sclerosis.
+Diagnosis year: 2035
+Medication: Natalizumab | Dose: 300 mg | Frequency: every 4 weeks
+MRI: Brain | Finding: Two new periventricular lesions | Severity: 3.0
+

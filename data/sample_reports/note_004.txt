@@ -1,0 +1,11 @@
+Patient: Danielle Brooks
+MRN: MRN-1004
+Visit Date: 2026-02-16
+
+Chief Complaint: Synthetic dizziness and sensory fluctuation check.
+Assessment: PPMS with intermittent balance complaints.
+Current DMT: Ocrelizumab
+Interval MRI notes no new lesions.
+Medication: Ocrelizumab | Dose: 600 mg IV | Frequency: every 6 months
+Medication: Meclizine | Dose: 25 mg | Frequency: as needed
+MRI: Brain | Finding: No active enhancing lesions on this synthetic follow-up | Severity: 2.0

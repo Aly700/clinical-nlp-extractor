@@ -1,0 +1,14 @@
+.pytest_cache/
+__pycache__/
+*.pyc
+*.sqlite
+*.db
+*.db.tmp
+backups/
+.DS_Store
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+logs/

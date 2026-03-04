@@ -1,0 +1,12 @@
+Patient: Alex Rivera
+MRN: MRN-1001
+Visit Date: 2026-02-10
+
+Chief Complaint: Routine synthetic MS follow-up.
+Assessment: RRMS clinically stable this month.
+EDSS score: 2.5
+Current DMT: Ocrelizumab
+MRI review: 2 new lesions in the periventricular region since prior scan.
+Medication: Ocrelizumab | Dose: 600 mg IV | Frequency: every 6 months
+Medication: Vitamin D | Dose: 2000 IU | Frequency: daily
+MRI: Brain | Finding: New demyelinating foci noted | Severity: 2.7

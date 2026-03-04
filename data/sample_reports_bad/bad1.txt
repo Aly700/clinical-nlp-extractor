@@ -1,0 +1,8 @@
+Patient: Synthetic Demo One
+MRN: BAD-2001
+Visit Date: 2026-03-01
+
+Assessment: Follow-up for demyelinating disease.
+EDSS score: 12.0
+Medication: Ocrelizumab | Dose: 600 mg | Frequency: every 6 months
+MRI: Brain | Finding: Stable chronic lesions | Severity: 2.0

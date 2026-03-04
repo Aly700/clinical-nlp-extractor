@@ -1,0 +1,12 @@
+Patient: Brianna Cole
+MRN: MRN-1002
+Visit Date: 2026-02-12
+
+Chief Complaint: Synthetic neurology reassessment for relapsing symptoms.
+Assessment: RRMS with mild gait fatigue.
+EDSS is 3.0
+Current DMT: Natalizumab
+Interval MRI shows no new lesions.
+Medication: Natalizumab | Dose: 300 mg IV | Frequency: every 4 weeks
+Medication: Baclofen | Dose: 10 mg | Frequency: nightly
+MRI: Brain | Finding: Stable chronic plaques without enhancement | Severity: 2.2

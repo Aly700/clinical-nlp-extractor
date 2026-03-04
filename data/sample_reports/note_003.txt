@@ -1,0 +1,12 @@
+Patient: Cameron Lee
+MRN: MRN-1003
+Visit Date: 2026-02-14
+
+Chief Complaint: Synthetic progressive weakness follow-up.
+Assessment: SPMS progression discussed.
+EDSS score of 6.5
+Current DMT: Fingolimod
+MRI report indicates 3 new lesions across juxtacortical regions.
+Medication: Fingolimod | Dose: 0.5 mg | Frequency: daily
+Medication: Dalfampridine | Dose: 10 mg | Frequency: twice daily
+MRI: Brain | Finding: Interval increase in lesion burden | Severity: 4.1

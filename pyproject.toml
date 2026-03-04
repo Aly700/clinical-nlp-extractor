@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "clinical-nlp-extractor"
+version = "0.1.0"
+description = "Starter pipeline for extracting structured entities from synthetic clinical notes into a relational database."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "pandas>=2.2",
+  "SQLAlchemy>=1.4",
+  "spacy>=3.7,<4.0",
+  "streamlit>=1.35",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

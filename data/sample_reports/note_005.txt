@@ -1,0 +1,12 @@
+Patient: Ethan Morgan
+MRN: MRN-1005
+Visit Date: 2026-02-20
+
+Chief Complaint: Synthetic cognitive fatigue follow-up.
+Assessment: RRMS stable by history.
+EDSS: 4.0
+Current DMT: Natalizumab
+MRI comparison: no new lesions.
+Medication: Natalizumab | Dose: 300 mg IV | Frequency: every 4 weeks
+Medication: Modafinil | Dose: 100 mg | Frequency: mornings
+MRI: Brain | Finding: Stable plaque distribution on synthetic surveillance study | Severity: 2.6
